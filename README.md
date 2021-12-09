@@ -1,2 +1,2 @@
 # Weather-App
-displays weather to user upon selection of location
+simple weather app that displays location and weather to user using WeatherBit.io API
